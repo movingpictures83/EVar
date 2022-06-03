@@ -1,0 +1,2 @@
+Prefix plugins/EVar/example
+Plugin EVar inputfile parameters.txt outputfile evar.csv
